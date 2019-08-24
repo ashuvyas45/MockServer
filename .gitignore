@@ -1,0 +1,17 @@
+*.swp
+vendor
+conversation-service
+.idea/
+application.yml
+test.yml
+logfile
+*.tasks
+.vscode
+test.http
+loadtest
+.DS_Store
+.vs
+debug.test
+tmp
+out/
+coverage.out
