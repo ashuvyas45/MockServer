@@ -31,5 +31,3 @@ export PATH="${PATH}:${GOPATH}/bin"
 ## Start
 
 - To start the server run: `out/mock-server start`
-
-
